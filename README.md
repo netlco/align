@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://align.netlco.com/"><img src="images/align-lockup-480.png" alt="NETLCO Align" width="320"></a>
+</p>
+
 # NETLCO Align
 
 **Sound system tuning and audio measurement software.** Measure a sound system with one application and see what to change: stages, venues and churches, the level at live shows, cinemas and home theatres, and cars.
@@ -5,6 +9,10 @@
 Open it in the browser: **[align.netlco.com](https://align.netlco.com/)**
 
 Made by [Nomad Enterprise TechSolutions Limited (NETLCO)](https://netlco.com/), Trinidad and Tobago.
+
+[![The Align EQ tool on a worked example: the measured curve, the suggested filters, and a plain reason for each filter it applies or refuses](images/eq-screen.jpg)](https://align.netlco.com/tools/eq)
+
+*The [EQ](https://align.netlco.com/tools/eq) tool on a worked example: each filter it suggests, applied or refused, with the reason.*
 
 ## The tools
 
