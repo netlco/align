@@ -8,7 +8,7 @@ Made by [Nomad Enterprise TechSolutions Limited (NETLCO)](https://netlco.com/), 
 
 ## The tools
 
-Two are free; the rest come with Pro ([prices](https://align.netlco.com/prices)).
+Align is free to start: the RTA, the spectrograph, the SPL meter, pink noise and the Fill and delay planner run with no account. Pro opens every other tool for one payment of US$199 ([prices](https://align.netlco.com/prices)).
 
 | Tool | What it does | Plan |
 |---|---|---|
@@ -27,8 +27,8 @@ Two are free; the rest come with Pro ([prices](https://align.netlco.com/prices))
 ## Learn
 
 - [Videos](https://align.netlco.com/videos): short answers to what engineers ask about watts, subs, horns, crossovers and rooms, each with the Align tool that measures it.
-- [Training](https://align.netlco.com/training): how to set up and use Align, step by step.
-- [Compare](https://align.netlco.com/compare): Align beside RiTA, Open Sound Meter, SATlive and FLUX MiRA Live, 50 features, each mark linked to its maker's page.
+- [Training](https://align.netlco.com/training): learn to measure and tune a sound system with Align, seven lessons in the order the trade works. Free to read, no account.
+- [Compare](https://align.netlco.com/compare): five sound system measurement tools side by side (Align, RiTA, Open Sound Meter, SATlive and FLUX MiRA Live): where each runs, what it costs, and 50 features.
 - [What's new](https://align.netlco.com/changelog)
 
 ## Contact
